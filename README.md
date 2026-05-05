@@ -1,2 +1,2 @@
 # EthicsProject
-Upload the file in colab and run 
+This is a group course project done in the ethics of AI course .
